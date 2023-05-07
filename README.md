@@ -21,6 +21,4 @@ This demonstration proves the reliability of the program and its ability to ensu
 
 ## Next Steps
 
-In the future, I'd like to further improve this application by adding some features:
-- Create the application into an app with a GUI to be used freely by anyone
-- Give users the option to move multiple data sets for eg. date, quantities, part numbers
+In the future, I'd like to further improve this program by turning into an application that can be used for any two excel files. This app would include a gui in which users can select a source file, a destination file, source cells and destination cells. After the user includes their input, the destination file should be able to update every time the source file is updated. I'd also like to make the program run everytime the source file is changed rather than the user having to run the program every time they want the destination file to update. This will make the process more efficient.
