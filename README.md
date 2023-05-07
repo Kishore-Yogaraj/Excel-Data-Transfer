@@ -1,4 +1,4 @@
-# Excel_Data_Transfer
+# Excel-Data-Transfer
 This program moves data from a specified cell in a source excel file to a specified cell in a destination excel file whenever the source cell is changed/updated
 
 ## Inspiration For the Application
