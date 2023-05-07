@@ -18,3 +18,9 @@ In the next Excel file, I highlight the corresponding quantities and parts that 
 To demonstrate the effectiveness of the program, I go back to the source file and intentionally change the quantities, as if General Motors had randomly changed them. Once the changes have been made, I close the destination file and run the program. It takes approximately 30 seconds for the program to run, and once completed, I open the destination file to reveal that the quantities have been automatically updated thanks to the program.
 
 This demonstration proves the reliability of the program and its ability to ensure that the inventory tracker matches the source file accurately and efficiently, without the need for manual intervention.
+
+## Next Steps
+
+In the future, I'd like to further improve this application by adding some features:
+- Create the application into an app with a GUI to be used freely by anyone
+- Give users the option to move multiple data sets for eg. date, quantities, part numbers
